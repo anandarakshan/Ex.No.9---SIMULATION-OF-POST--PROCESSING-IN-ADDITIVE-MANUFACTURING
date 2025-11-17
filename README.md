@@ -50,9 +50,9 @@
 ## Output:
 <img width="1916" height="1025" alt="image" src="https://github.com/user-attachments/assets/4850a893-4b5c-4e2d-9922-142095a6fab0" />
 
-<img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/9e7d1415-c89f-410a-a50d-5d8f478cb5d0" />
+<img width="1918" height="1025" alt="Screenshot 2025-11-17 170256" src="https://github.com/user-attachments/assets/47be29ad-5996-46be-b310-b392f7d9088d" />
 
-<img width="1918" height="1024" alt="image" src="https://github.com/user-attachments/assets/e4593876-159c-4d86-854a-d4e9f0ddea6b" />
+<img width="1918" height="1024" alt="Screenshot 2025-11-17 170327" src="https://github.com/user-attachments/assets/34f0c382-10be-45fa-9e34-e4cfc812e7eb" />
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
