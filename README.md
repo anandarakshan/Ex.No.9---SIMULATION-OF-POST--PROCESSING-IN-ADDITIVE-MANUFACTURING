@@ -48,11 +48,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-<img width="1916" height="1025" alt="image" src="https://github.com/user-attachments/assets/4850a893-4b5c-4e2d-9922-142095a6fab0" />
+![alt text](<Screenshot 2025-11-17 170222.png>)
 
-<img width="1918" height="1025" alt="Screenshot 2025-11-17 170256" src="https://github.com/user-attachments/assets/6455f607-b25d-4e87-8d1b-2ff930e4d5f4" />
+![alt text](<Screenshot 2025-11-17 170256.png>)
 
-<img width="1918" height="1024" alt="Screenshot 2025-11-17 170327" src="https://github.com/user-attachments/assets/7a389d4f-64a8-4f97-8161-08345292dbe5" />
-
+![alt text](<Screenshot 2025-11-17 170327.png>)
 ### Result:
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
